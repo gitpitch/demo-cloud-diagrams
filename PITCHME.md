@@ -9,6 +9,7 @@
 @snapend
 
 ---
+@title[Cloud Support]
 
 @snap[north span-100 text-06]
 Support for AWS, Azure, GCP, K8S, Alibaba Cloud, OCI, On-Premises, and more...
