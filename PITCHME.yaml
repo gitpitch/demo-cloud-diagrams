@@ -1,0 +1,38 @@
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+
+#
+# Published Setting
+# Doc: https://gitpitch.com/docs/settings/published
+#
+published : true
+
+#
+# Twitter Card Settings
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "GitPitch supports Diagrams As Code"
+description : "Cloud System Architecture Diagrams from Python Code as pixel-perfect SVG images on your GitPitch slides."
+thumbnail : assets/img/gitpitch-cloud-diagrams-splash.jpg
+
+theme            : template
+theme-override   : assets/css/PITCHME.css
+theme-background : [ "#2D5569" ]
+background          : assets/img/diagrams.png
+background-position : center
+background-size     : 100% 100%
+background-opacity  : 5
+theme-headline   : [ "Montserrat", "#5FBAD8", "none", "#FFFFFF", "100", "120", "15" ]
+theme-byline     : [ "Raleway", "#FFFFFF", "none", "#5FBAD8", "100", "110", "15" ]
+theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#92DFD3", "100", "100", "15" ]
+theme-links      : [ "#5889C8", "#5254F7" ]
+theme-code       : [ "Source Code Pro", "100", "120" ]
+highlight        : tomorrow
+theme-controls   : [ "#C0C0C0" ]
+theme-margins    : [ "0", "15px" ]
+logo             : assets/img/logo-circled.svg
+logo-position    : top-left
+layout           : center
